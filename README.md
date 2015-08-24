@@ -1,4 +1,4 @@
 # hello-world
 
-Finished
+A bit about myself. 
 First Repo
